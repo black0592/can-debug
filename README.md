@@ -1,5 +1,7 @@
 # can-debug
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/canjs/can-debug.svg)](https://greenkeeper.io/)
+
 [![Build Status](https://travis-ci.org/Bitovi/can-debug.svg?branch=master)](https://travis-ci.org/Bitovi/can-debug)
 
 CanJS Debugger
